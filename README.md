@@ -1,3 +1,4 @@
+Project Title: HashiCorp Vault/ Securing Cloud Infrastructure Using HashiCorp Vault & AWS
 This project focuses on securing cloud-native infrastructure and application components on AWS using HashiCorp Vault. The goal is to implement best practices for secrets management, access control, and CI/CD integration in a cloud environment.
 
 🔐 Key Modules:
