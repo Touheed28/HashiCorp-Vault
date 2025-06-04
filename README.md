@@ -21,14 +21,22 @@ Enabled service-to-service authentication and secure secret sharing using Vault'
 **🧰 Tools & Technologies:**
 
 HashiCorp Vault (Open-source)
+
 AWS Services (EC2, IAM, RDS, etc.)
+
 Terraform (Infrastructure provisioning)
+
 GitHub Actions / Jenkins (CI/CD)
+
 Docker & Microservices Architecture
+
 
 **📘 Project Outcomes:**
 
 Enhanced cloud infrastructure security.
+
 Automated secret lifecycle and rotation.
+
 Removed hardcoded credentials from apps and pipelines.
+
 Applied real-world DevSecOps practices.
